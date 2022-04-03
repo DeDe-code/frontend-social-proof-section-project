@@ -9,7 +9,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [](frontend-social-proof-section-project.netlify.app)
+- Solution URL: [https://frontend-social-proof-section-project.netlify.app/]
 
 ### Built with
 
