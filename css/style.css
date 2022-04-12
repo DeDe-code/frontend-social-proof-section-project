@@ -79,6 +79,7 @@ h4,
 h5 {
   color: var(--clr-primary-2);
   line-height: 1;
+  font-size: var(--fs-500);
 }
 
 img {
